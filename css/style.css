@@ -23,7 +23,7 @@ body{
 }
 
 .container{
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 .nav{
@@ -68,7 +68,7 @@ body{
 .logo-6{
     position:absolute;
     top: -100px;
-    left: 400px;
+    left: 300px;
     z-index: 3;
 }
 .hero__text{
@@ -106,7 +106,7 @@ mix-blend-mode: normal;
     display: flex;
     position: absolute;
     top: 160px;
-   right: -450px;
+   right: -110px;
    z-index: 2;
 
 }
